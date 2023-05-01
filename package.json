@@ -4,6 +4,10 @@
   "description": "Sharp, Precise, Stealthy.",
   "version": "0.0.1",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cmacariovx/Stealth-X"
+  },
   "engines": {
     "vscode": "^1.77.0"
   },
