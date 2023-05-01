@@ -1,0 +1,22 @@
+{
+  "name": "stealth-x",
+  "displayName": "Stealth X",
+  "description": "Sharp, Precise, Stealthy.",
+  "version": "0.0.1",
+  "license": "MIT",
+  "engines": {
+    "vscode": "^1.77.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Stealth X",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Stealth X-color-theme.json"
+      }
+    ]
+  }
+}
