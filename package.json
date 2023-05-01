@@ -2,9 +2,10 @@
   "name": "stealth-x",
   "displayName": "Stealth X",
   "description": "Sharp, Precise, Stealthy.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "license": "MIT",
   "publisher": "cmacariovx",
+  "icon": "assets/icon.png",
   "repository": {
     "type": "git",
     "url": "https://github.com/cmacariovx/Stealth-X"
